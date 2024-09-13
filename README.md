@@ -28,10 +28,10 @@ This project focuses on creating an interactive dashboard for an IT support tick
    - Filters for department (support team) and ticket status for interactive exploration of the data.
 
 ## Screenshots of the Dashboard
-(![IT Support Ticketing System Dashboard](https://github.com/user-attachments/assets/fe2b1b72-bcc6-488f-956f-eee9a6b10a98))
-(!![IT Support Ticketing System Dashboard1](https://github.com/user-attachments/assets/aac86206-9fab-456a-bcb7-9f02c5d6f465))
-(!![IT Support Ticketing System Dashboard2](https://github.com/user-attachments/assets/bb2300c6-f149-4fa2-be6f-7ee6dedf5bfe))
-(!![IT Support Ticketing System Dashboard3](https://github.com/user-attachments/assets/44b03341-9543-41da-a9ab-d795075ac52a))
+[IT Support Ticketing System Dashboard](https://github.com/user-attachments/assets/fe2b1b72-bcc6-488f-956f-eee9a6b10a98)
+[IT Support Ticketing System Dashboard1](https://github.com/user-attachments/assets/aac86206-9fab-456a-bcb7-9f02c5d6f465)
+[IT Support Ticketing System Dashboard2](https://github.com/user-attachments/assets/bb2300c6-f149-4fa2-be6f-7ee6dedf5bfe)
+[IT Support Ticketing System Dashboard3](https://github.com/user-attachments/assets/44b03341-9543-41da-a9ab-d795075ac52a)
 
 ## Project Insights
 - **Efficiency Improvements**: This dashboard helps identify bottlenecks in support operations, such as aging tickets or teams that need additional resources.
